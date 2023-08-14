@@ -30,6 +30,7 @@
 .drink-detail-image {
   width: 500px;
   padding: 140px;
+  height: 490px;
 }
 
 .button-container {
@@ -68,7 +69,7 @@
   box-shadow: 2px 2px 10px 2px #cecece;
   cursor: pointer;
   padding: 2px;
-  border: none
+  border: none;
 }
 
 .delete-button {
